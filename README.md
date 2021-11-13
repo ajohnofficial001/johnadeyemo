@@ -1,2 +1,2 @@
 # johnadeyemo
-portfolio
+portfolio website built with Bootstrap V5 and SASS
